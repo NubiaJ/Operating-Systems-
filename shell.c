@@ -1,3 +1,6 @@
+//Collaborator: Jasmine Makombe 
+
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
